@@ -3,6 +3,7 @@ package Operadores;
 public class Operadores {
 
     public static void main(String[] args) {
+
         //Exemplo de concatenação utilizando textos e números.
        /* String nomeCompleto = "LINGUAGEM " + "JAVA";
             System.out.println (nomeCompleto);
@@ -22,6 +23,7 @@ public class Operadores {
                 System.out.println (concatenacao);
 
             concatenacao = "1" + (1 + 1 + 1);
+
                 System.out.println (concatenacao);*/
 
 
